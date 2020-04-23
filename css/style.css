@@ -6,6 +6,13 @@
     font-size: 80px;
     padding-bottom: 10px;
 }
+.nav {
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    padding: 20px 0;
+    justify-content: space-around;
+}
 /* Column styles */
 
 /* Footer Styles */
