@@ -1,5 +1,11 @@
 /* Navigation styles */
-
+.logo{
+    color:red;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    padding-bottom: 10px;
+}
 /* Column styles */
 
 /* Footer Styles */
